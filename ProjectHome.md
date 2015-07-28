@@ -1,0 +1,1 @@
+Android mobile phone or tablet function as DLNA client or server
